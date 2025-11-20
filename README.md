@@ -1,0 +1,1 @@
+-e "Nama: Faril\nNIM: 123456789" 
