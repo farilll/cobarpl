@@ -1,1 +1,2 @@
 -e "Nama: Faril\nNIM: 123456789" 
+-e "\nProdi: Informatika" 
